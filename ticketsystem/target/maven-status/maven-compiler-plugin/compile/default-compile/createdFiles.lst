@@ -1,0 +1,6 @@
+com\mycompany\ticketsystem\services\TicketService.class
+com\mycompany\ticketsystem\models\Ticket.class
+com\mycompany\ticketsystem\services\PassengerService.class
+com\mycompany\ticketsystem\resources\TicketResource.class
+com\mycompany\ticketsystem\models\Passenger.class
+com\mycompany\ticketsystem\resources\PassengerResource.class
